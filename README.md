@@ -22,6 +22,6 @@ To run the AI agent, execute the corresponding script for the desired algorithm:
 be sure to read the pdf so that you know the original problem statement.
 
 ```bash
-g++ -o ``filename.cpp`` filename
-./ ``filename``
+g++ -o filename.cpp filename
+./ filename
 ```
